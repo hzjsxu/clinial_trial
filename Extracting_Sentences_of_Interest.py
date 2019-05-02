@@ -95,18 +95,3 @@ textblocks_dict = extract_textblocks("NCT02775682")
 found = match_indicators(textblocks_dict, indicators_dict, "brief_summary")
 print(found)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
