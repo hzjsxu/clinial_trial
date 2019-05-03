@@ -10,7 +10,7 @@ By load_trial() function, we can pass in a trial ID number and the location of t
 find_textblocks() identifies the fields containing unstructured text in the loaded trial dictionary and returns a list of tuples containing the name of the field and the text in it. process_textblock() takes a single textblock and performs a little clean-up on the text data by removing extra whitespace. get_textblocks() creates a dictionary from the list of tuples with the field names as keys and the textblocks as values. And extract_textblocks() is a wrapper for all of these functions.
 
 create_regex_format() compiles a regular expression (regex) from the defined indicator pattern. Compiling this regex allows us to match indicators at any position—beginning, middle, or end. find_indicators() processes the schema to generate a dictionary containing the compiled regex from each indicator, as well as the hierarchical information about that indicator. match_indicators() is where we use these regexes to find sentences where a match exists and put these matched fragments, along with a sentence ID number, in a dictionary.
-### Extracting_Temportal_Information.py
+### Extracting_Temporal_Information.py
 It aims to explore the use of a syntactic parsing-based strategy to extract information that is potentially about scheduling for patients from unstructured trial description text.
 
 Use generate_index.py to generate file named compounded. I didn't upload it because it's too large.
