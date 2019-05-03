@@ -25,4 +25,4 @@ extract_intervention() use specified verbs such as "receive" as indicators to ex
 
 print_intervention_output() prints the output in a readable format.
 
-Thus, some intervented-related information that might be useful are collected.
+Thus, some intervention-related information that might be useful are collected.
