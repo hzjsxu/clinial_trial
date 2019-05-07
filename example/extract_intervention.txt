@@ -1,0 +1,249 @@
+All the patients eligible for the study will receive the planned systemic treatment.
+
+patients study will receive treatment
+
+____________________________________________
+
+Depending on clinical features, and feasibility of adequate surgical removal of the tumor, patients may receive primary chemotherapy followed by a postoperative chemotherapy treatment or only an adjuvant chemotherapy.
+
+patients may receive chemotherapy chemotherapy treatment chemotherapy
+
+____________________________________________
+
+In case of immediate surgery, patients will receive an adjuvant treatment with the 3-drug regimen (Cisplatin-Adriamycin-Ifosfamide).
+
+patients will receive treatment regimen Cisplatin Adriamycin Ifosfamide
+
+____________________________________________
+
+In the VA Family Psycho-Educational (FPE) is a component of the Uniform Services standard for care of Veterans with schizophrenia and their family members.
+
+____________________________________________
+
+FPE includes single family variants, e.g., Behavioral Family Therapy, which is provided to individual families (consumer and family members); and multi-family variants, e.g., Multi-Family Group Psycho-Education (MFG-stands for 'Multi-Family Group'), which is provided to multiple families (consumers and family members together) in a single treatment group.
+
+____________________________________________
+
+To promote the availability of FPE to all Veterans who could benefit, the VA began national trainings of clinicians in FPE.
+
+____________________________________________
+
+Despite this training, the proven effectiveness of FPE, and that it is the standard for care, it is not widely available to Veterans, is underutilized even where available, and can incur relatively high resistance from Veterans and families.
+
+____________________________________________
+
+Less than 5% of VA Medical Centers provide FPE.
+
+____________________________________________
+
+Further, even where it is available, it reaches a relatively small proportion of Veterans who could benefit.
+
+____________________________________________
+
+Barriers to receiving this treatment include the lack of appropriately trained clinicians, the need for Veterans and family members to travel to receive these services--this maybe a particularly important hurdle for a treatment that meets bi-weekly for a minimum of nine months--the tendency to avoid in-person treatment due to the stigma associated with seeking mental health treatment, and the difficulty of providing treatments after hours or on weekends when families are more likely be able to attend.
+
+to receive services hurdle treatment bi weekly minimum months tendency person treatment stigma health treatment difficulty treatments hours weekends families
+
+____________________________________________
+
+It is important for the VA to have treatment delivery models that maximize the likelihood that all Veterans in need will receive interventions such as FPE, including Veterans residing in rural settings, and Veterans who avoid VA settings due to stigma.
+
+Veterans need will receive interventions FPE Veterans settings Veterans VA settings stigma
+
+____________________________________________
+
+E-health delivery of services has been a focus of the VA as a way to overcome these barriers.
+
+____________________________________________
+
+Specialized web-based approaches have been studied and found to be successful for people with schizophrenia, and their families, and can deliver content that is intensive and engaging with reduced requirements for staff time.
+
+____________________________________________
+
+The investigators' previous work has developed a model and guidelines to design e-health applications for persons with schizophrenia and others with cognitive impairments (e.g., Rotondi, VA RR&D D61804R), and developed a highly scalable intervention termed Schizophrenia On-line Access to Resources (SOAR) (Rotondi, R01 MH63484).
+
+____________________________________________
+
+SOAR incorporated FPE into a modernized model that: incorporates web-based delivery; provides the ability of users to individualize commitment and services to meet varied preferences and needs, in order to address prominent reasons for resistance to FPE; and is accessible from homes and smart phones.
+
+____________________________________________
+
+SOAR was highly successful at reducing illness symptoms for persons with schizophrenia and improving their and their family members' knowledge of the illness.
+
+____________________________________________
+
+The aims of this study are to conduct: 1) To conduct a non-inferiority randomized trial of DSW vs. in-person MFG vs.
+
+____________________________________________
+
+Treatment as usual (TAU) that compares changes in severity of positive and negative psychiatric symptoms, and family psychological burden, during treatment and 3-months post-treatment 2) exploratory secondary analyses to identify Veteran and family characteristics that are associated with decreased levels of psychiatric symptoms and caregiver burden; 3) exploratory qualitative analyses to inform a larger implementation of SOAR by identifying barriers, facilitators, VA system requirements, etc.
+
+____________________________________________
+
+from clinicians providing the treatments, their supervisors, and participants.
+
+____________________________________________
+
+If successful, SOAR could substantially increase the options, availability, utilization, appeal, and effectiveness of FPE for Veterans and their families, thereby improving Veteran well-being, recovery, and Veteran and family quality of life.
+
+____________________________________________
+
+OBJECTIVES: I.
+
+____________________________________________
+
+Determine the maximum tolerated dose of bortezomib and docetaxel in patients with advanced solid tumors.
+
+____________________________________________
+
+II.
+
+____________________________________________
+
+Determine the toxicity and tolerability of this regimen in these patients.
+
+____________________________________________
+
+III.
+
+____________________________________________
+
+Determine the biologic correlates of proteasome inhibition of bortezomib and determine the effects of this inhibition on the pharmacokinetics of docetaxel in these patients.
+
+____________________________________________
+
+IV.
+
+____________________________________________
+
+Determine the antitumor efficacy of this regimen in these patients.
+
+____________________________________________
+
+OUTLINE: This is a dose-escalation study.
+
+____________________________________________
+
+For course 1, patients receive docetaxel IV over 1 hour on days 1 and 8 and bortezomib IV over 3-5 seconds on days 9 and 12.
+
+patients receive IV, bortezomib seconds days, bortezomib IV
+
+____________________________________________
+
+Patients then receive 1 week of rest.
+
+Patients receive week rest
+
+____________________________________________
+
+For course 2 and all subsequent courses, patients receive docetaxel on days 1 and 8 and bortezomib on days 2, 5, 9, and 12.
+
+patients receive 8 bortezomib days, docetaxel
+
+____________________________________________
+
+Courses repeat every 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+____________________________________________
+
+Cohorts of 2-6 patients receive escalating doses of bortezomib and docetaxel until the maximum tolerated dose (MTD) is determined.
+
+Cohorts patients, dose MTD is receive doses bortezomib docetaxel
+
+____________________________________________
+
+The MTD is defined as the dose at which no more than 1 of 6 patients experiences dose-limiting toxicity.
+
+____________________________________________
+
+PROJECTED ACCRUAL: A minimum of 24 patients will be accrued for this study.
+
+____________________________________________
+
+Background: Promotion of cognitive functions of middle aged and older adults and prevention of dementia are important issues in the aging society.
+
+____________________________________________
+
+In recent years, studies have shown that Tai Chi Chuan (TCC) exercise can improve cognitive functions in healthy middle-aged and older adults, but not studies have investigated the neural mechanisms.
+
+____________________________________________
+
+Therefore, the purposes of this research project are: (1) to investigate the effects of TCC exercise intervention on improving cognitive functions and motor functions in healthy middle-aged and older adults; (2) to investigate the effects of TCC intervention on improving the integrity of frontostriatal fiber tracts, and areas and intensity of brain activation while performing a switching task in healthy middle-aged and older adults.
+
+____________________________________________
+
+Methods: This project used the assessor-blind and randomized control clinical trial design.
+
+____________________________________________
+
+A total of 60 healthy middle-aged and older adults will be recruited, randomly allocated to two groups: experimental and control groups.
+
+____________________________________________
+
+Experimental group will receive a 60-minute exercise program, three times per week for 12 weeks.
+
+group will receive exercise program
+
+____________________________________________
+
+Control group will receive a telephone consultation once every two weeks for 12 weeks.
+
+Control group will receive telephone consultation
+
+____________________________________________
+
+All participants will receive clinical neuropsychological tests, Cambridge Neuropsychological Test Automated Battery tests, motor function tests, diffusion spectrum MR imaging, and functional MRI experiments before intervention, and at the end of intervention to realize the changes of cognitive function, motor function, integrity of neural tracts, and intensity and regions of functional activation while doing switching task of executive function in order to understand the cognitive effects and the neural mechanisms of TCC.
+
+participants will receive to to tests Cambridge Neuropsychological Test Automated Battery tests motor function tests diffusion spectrum MR imaging MRI experiments, at function integrity intensity doing switching task function, in order understand effects mechanisms TCC, at end of intervention realize changes function
+
+____________________________________________
+
+Subjects will be consented to the study prior to Coronary Artery Bypass Graft (CABG) and randomly assigned to receive either ticagrelor 90 mg bid or placebo bid starting within 48 hours of surgery.
+
+to receive ticagrelor mg bid placebo
+
+____________________________________________
+
+Subjects will remain on study drug for a minimum of 12 months during which time they will receive telephone follow-up one and nine months following CABG and clinic visits three, six, and twelve months following CABG.
+
+they will receive telephone follow months
+
+____________________________________________
+
+OBJECTIVES: - Determine the maximum tolerated dose of hu14.18-interleukin-2 fusion protein in children with refractory or recurrent neuroblastoma or other GD2-positive tumors.
+
+____________________________________________
+
+- Determine the toxicity and pharmacokinetics of the fusion protein in these patients.
+
+____________________________________________
+
+- Determine the effect of the fusion protein on systemic immune modulation in these patients.
+
+____________________________________________
+
+- Quantitate the antifusion protein antibodies in patients treated with fusion protein.
+
+____________________________________________
+
+- Evaluate antitumor responses resulting from this fusion protein regimen in these patients.
+
+____________________________________________
+
+OUTLINE: This is a dose-escalation study.
+
+____________________________________________
+
+Patients receive hu14.18-interleukin-2 (hu14.18-IL2) fusion protein IV over 4 hours once daily on days 1-3.
+
+Patients receive 
+
+____________________________________________
+
+Treatment repeats every 28 days for up to 4 courses in the absence of disease progression or unacceptable toxicity.
+
+____________________________________________
+
+Cohorts of 3-6 patients receive escalating doses of hu14.18-IL2 fusion protein until the maximum tolerated dose (MTD) is determined.
+
+Cohorts patients, dose MTD is receive doses hu14.18-IL2 fusion protein
